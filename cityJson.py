@@ -1,7 +1,7 @@
 # Importing Libraries.
 import requests
 import json
-
+# func
 def Status(lon, lat)
 # Requests Constants.
 API_Key = "77df8ee93034bedcbe6b96b0f9eb9f0a"
